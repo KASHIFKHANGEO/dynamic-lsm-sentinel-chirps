@@ -4,8 +4,7 @@ This repository contains the code for the manuscript:
 "Dynamic Landslide Susceptibility Mapping: A Spatiotemporal Machine Learning Framework Using Sentinel-2 and CHIRPS with Temporal Holdout Validation"
 
  Repository Structure
-dynamic-lsm-sentinel-chirps/888888888888888888888888888
-README.md requirements.txt
+dynamic-lsm-sentinel-chirps/ 
 
 gee/
         export_temporal.js # GEE script for temporal trigger rasters
